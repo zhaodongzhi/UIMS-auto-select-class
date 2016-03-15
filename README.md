@@ -10,7 +10,7 @@ JLUSelectCourse.py:
 
 geventJLUSelectCourse.py：
 
-这个版本速度更快，可以同时选多个课程，但是需要先安装号python第三方库gevent
+这个版本速度更快，可以同时选多个课程，但是需要先安装python第三方库gevent
 
 命令行运行：
 
@@ -19,4 +19,14 @@ python geventJLUSelectCourse.py -username 你的用户名 -password 你的密码
 若同时选两门课运行：
 
 python geventJLUSelectCourse.py -username 你的用户名 -password 你的密码 -courseid 所选课程id1 -courseid 所选课课程id2
+
+三门课以此类推
+
+课程id号：
+
+在选课页面右键->审查元素查找对应课程id
+
+如下：
+
+
 
