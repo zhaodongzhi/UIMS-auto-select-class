@@ -30,5 +30,7 @@ python geventJLUSelectCourse.py -username 你的用户名 -password 你的密码
 
 ![image](https://github.com/zhaodongzhi/UIMS-auto-select-class/blob/master/CourseidExample.png)
 
+其中50341748就是移动互联网与技术的课程id
+
 
 
