@@ -28,5 +28,7 @@ python geventJLUSelectCourse.py -username 你的用户名 -password 你的密码
 
 如下：
 
+![image](https://github.com/zhaodongzhi/UIMS-auto-select-class/blob/master/CourseidExample.png)
+
 
 
